@@ -1,0 +1,7 @@
+spring:
+  r2dbc:
+    password: Biaocheng1!
+    username: gubiaocheng
+    url: r2dbcs:postgresql://pgm-7xvr94ow96g9b28qxo.pg.rds.aliyuncs.com:5432/testdb?sslmode=disable
+  datasource:
+    driver-class-name: org.postgresql.Driver
